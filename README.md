@@ -33,16 +33,16 @@ A virtual machine (`bloghost`) runs a PHP-based blog page that:
 ## 📸 Screenshots
 
 ### ✅ Web Page Output  
-![Web Output](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/connectionsuccess.png?raw=true)
+![Web Output](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/cloud/connectionsuccess.png?raw=true)
 
 ### ✅ Cloud SQL  
-![Cloud SQL](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/mysql.png?raw=true)
+![Cloud SQL](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/cloud/mysql.png?raw=true)
 
 ### ✅ Cloud Storage File  
-![Cloud Storage](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/Bucketcreation.png?raw=true)
+![Cloud Storage](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/cloud/Bucketcreation.png?raw=true)
 
 ### ✅ VM Instance  
-![VM Instance](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/VMcreated.png?raw=true)
+![VM Instance](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/cloud/VMcreated.png?raw=true)
 
 
 ## 🚀 Step-by-Step Setup
