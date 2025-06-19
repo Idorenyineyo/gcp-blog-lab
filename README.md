@@ -30,6 +30,20 @@ A virtual machine (`bloghost`) runs a PHP-based blog page that:
 | Cloud Shell + gcloud | Deployment and scripting                  |
 
 ---
+## 📸 Screenshots
+
+### ✅ Web Page Output  
+![Web Output](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/connectionsuccess.png?raw=true)
+
+### ✅ Cloud SQL  
+![Cloud SQL](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/mysql.png?raw=true)
+
+### ✅ Cloud Storage File  
+![Cloud Storage](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/Bucketcreation.png?raw=true)
+
+### ✅ VM Instance  
+![VM Instance](https://github.com/Idorenyineyo/gcp-blog-lab/blob/main/screenshots/VMcreated.png?raw=true)
+
 
 ## 🚀 Step-by-Step Setup
 
